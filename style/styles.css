@@ -209,4 +209,10 @@ body {
     .rodape__lista {
         display: block;
     }
+    .rodape__texto {
+        margin: 1em;
+
+        
+    
+    }
 }
